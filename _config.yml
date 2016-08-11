@@ -1,20 +1,4 @@
-name: Fouram
-favicon: null
-layout_spectrum: 0.63469
 typography_spectrum: 0.26169
-title: 'Fouram. #4AM'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#24131d'
@@ -26,4 +10,20 @@ color:
   lightness: 0.1875
   saturation: 0.25
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.63469
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: FOURAM
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Wake up early in the digital to see the sunrise
 purpose: []
