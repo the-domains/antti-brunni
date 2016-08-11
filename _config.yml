@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About us
+    id: 39a6c19e-6ed2-43b8-96ea-c22aa0343503
+    type: content
 favicon: null
 title: FOURAM. WAKE UP.
 description: Wake up early in the digital to see the sunrise
