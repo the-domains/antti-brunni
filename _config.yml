@@ -1,4 +1,25 @@
+name: Fouram.fi
+favicon: null
+layout_spectrum: 0.63469
 typography_spectrum: 0.26169
+navigation:
+  - name: About us
+    id: 39a6c19e-6ed2-43b8-96ea-c22aa0343503
+    type: content
+title: FOURAM. WAKE UP.
+description: Wake up early in the digital to see the sunrise
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#24131d'
@@ -10,25 +31,4 @@ color:
   lightness: 0.1875
   saturation: 0.25
   rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.63469
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Fouram.fi
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: About us
-    id: 39a6c19e-6ed2-43b8-96ea-c22aa0343503
-    type: content
-favicon: null
-title: FOURAM. WAKE UP.
-description: Wake up early in the digital to see the sunrise
 purpose: []
