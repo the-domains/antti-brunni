@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Antti Brunni]]></title>
         <description><![CDATA[Antti Brunni]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antti-brunni/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 06:23:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Aug 2016 05:49:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antti-brunni/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fouram. #4AM. Waking up early to see the sunrise. </p>]]></description>
+            <link>https://thegrid.ai/antti-brunni/fouram-4am-waking-up-early-to-see-the-sunrise/index.html</link>
+            <guid isPermaLink="false">39a6c19e-6ed2-43b8-96ea-c22aa0343503</guid>
+            <pubDate>Thu, 11 Aug 2016 05:49:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19c35756-7c8f-4d78-bf4d-f553efed060b.jpg">]]></description>
-            <link>undefinedtestipostaus-1/index.html</link>
+            <link>https://thegrid.ai/antti-brunni/testipostaus-1/index.html</link>
             <guid isPermaLink="false">24c80658-8cdd-49d7-80c9-3b553f5bcadc</guid>
             <pubDate>Tue, 05 Apr 2016 06:22:41 GMT</pubDate>
         </item>
