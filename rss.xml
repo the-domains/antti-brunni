@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Fouram. #4AM]]></title>
-        <description><![CDATA[Fouram. #4AM]]></description>
-        <link>http://fouram.fi/</link>
+        <title><![CDATA[FOURAM. WAKE UP.]]></title>
+        <description><![CDATA[FOURAM. WAKE UP.]]></description>
+        <link>https://thegrid.ai/fouram/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 06:15:16 GMT</lastBuildDate>
-        <atom:link href="http://fouram.fi/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What is Fouram?]]></title>
-            <description><![CDATA[<p>Contact us: http://www.twitter.com/fouramfi</p>]]></description>
-            <link>http://fouram.fi/what-is-fouram/index.html</link>
-            <guid isPermaLink="false">8f0135bd-9bfe-4c4e-bfcc-930faaee6b08</guid>
-            <pubDate>Thu, 11 Aug 2016 06:15:14 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 11 Aug 2016 06:30:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fouram/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Fouram. #4AM. Waking up early to see the sunrise. </p>]]></description>
-            <link>http://fouram.fi/fouram-4am-waking-up-early-to-see-the-sunrise/index.html</link>
+            <link>https://thegrid.ai/fouram/fouram-4am-waking-up-early-to-see-the-sunrise/index.html</link>
             <guid isPermaLink="false">39a6c19e-6ed2-43b8-96ea-c22aa0343503</guid>
-            <pubDate>Thu, 11 Aug 2016 05:49:05 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2016 06:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is Fouram?]]></title>
+            <description><![CDATA[<p>Contact us: http://www.twitter.com/fouramfi</p>]]></description>
+            <link>https://thegrid.ai/fouram/what-is-fouram/index.html</link>
+            <guid isPermaLink="false">8f0135bd-9bfe-4c4e-bfcc-930faaee6b08</guid>
+            <pubDate>Thu, 11 Aug 2016 06:15:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
